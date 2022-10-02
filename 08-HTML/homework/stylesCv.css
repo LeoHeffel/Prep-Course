@@ -1,0 +1,14 @@
+*{
+	color: cadetblue;
+	background-color: lemonchiffon;
+	margin: 20px;
+}
+
+img{
+	width: 400px;
+}
+
+.firstDiv{
+	text-align: center;
+	 border: 1px solid black
+}
